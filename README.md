@@ -1,4 +1,4 @@
-#Project
+# Project
 * Look this project in Netlify https://svelte-rick-morty.netlify.app/
 * This project was made  using  Svelte, Bootstrap and using the  Rick and Morty Api https://rickandmortyapi.com/
 
