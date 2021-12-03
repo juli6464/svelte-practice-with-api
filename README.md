@@ -1,3 +1,9 @@
+#Project
+* Look this project in Netlify https://svelte-rick-morty.netlify.app/
+* This project was made  using  Svelte, Bootstrap and using the  Rick and Morty Api https://rickandmortyapi.com/
+
+----
+
 *Psst — looking for a more complete solution? Check out [SvelteKit](https://kit.svelte.dev), the official framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing.*
 
 *Looking for a shareable component template instead? You can [use SvelteKit for that as well](https://kit.svelte.dev/docs#packaging) or the older [sveltejs/component-template](https://github.com/sveltejs/component-template)*
